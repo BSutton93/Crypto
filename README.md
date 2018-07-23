@@ -1,2 +1,2 @@
 # Crypto
-My Useful Crypto Scripts
+My Useful Crypto Scripts in Python
